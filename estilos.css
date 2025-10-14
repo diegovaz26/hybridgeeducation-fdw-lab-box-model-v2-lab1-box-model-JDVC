@@ -4,6 +4,6 @@
     height: 200px;
     padding: 20px;
     margin: 30px;
-    border: 10px solid blue;
+    border: '10px solid rgb(0, 0, 255);
 }
 /* Debes crear una clase llamada mi-div */
